@@ -9,4 +9,4 @@ A data engineer with 6+ years of experience working with various scale of compan
 
 ⚙️ I use daily: `.py`, `.sql`, `.yaml`!
 
-[![Visits Badge](https://badges.pufler.dev/visits/sugimiyanto/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/sugimiyanto/badge-it)](https://github.com/sugimiyanto)
