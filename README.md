@@ -8,3 +8,5 @@ A part-time coder 👨🏻‍💻 | full-time father 👨🏻 and learner 📚
 A data engineer with 6+ years of experience working with various scale of companies, skilled in building robust data pipelines and data warehouses to drive data-driven decisions, love to automate things using YAML!. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/sugimiyanto/)!
 
 ⚙️ I use daily: `.py`, `.sql`, `.yaml`!
+
+![Visitor Count](https://profile-counter.glitch.me/sugimiyanto/count.svg)
